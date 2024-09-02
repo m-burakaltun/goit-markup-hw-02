@@ -62,6 +62,9 @@
 
 .hero-image {
   background-color: #2e2f42;
+}
+
+.hero-image h1 {
   font-size: 56px;
   font-weight: 700;
   line-height: 3.75em;
