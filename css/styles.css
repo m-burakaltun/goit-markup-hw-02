@@ -26,10 +26,9 @@
 }
 
 .span-logo-studio:hover,
-.span-logo-studio:focus{
+.span-logo-studio:focus {
   color: #404bbf;
 }
-
 
 .nav-bar {
   font-size: 16px;
@@ -38,11 +37,11 @@
   color: #2e2f42;
 }
 
-.nav-bar li:hover{
+.nav-bar li:hover {
   color: #404bbf;
 }
 
-.nav-studio:active{
+.nav-studio:active {
   color: #404bbf;
   text-decoration: underline;
 }
@@ -57,11 +56,8 @@
 }
 .contact:hover,
 .contact:focus {
-  color: #404BBF;;
+  color: #404bbf;
 }
-
-
-
 
 .hero-image {
   background-color: #2e2f42;
@@ -81,8 +77,8 @@
   cursor: pointer;
 }
 .order-button:hover,
-.order-button:focus{
-  background-color: #404BBF;
+.order-button:focus {
+  background-color: #404bbf;
 }
 
 .section-1 h3 {
