@@ -143,6 +143,18 @@
   color: #4d5ae5;
 }
 
+.footer-logo-web {
+  color: #4d5ae5;
+}
+
+.footer-logo-studio {
+  color: #f4f4fd;
+}
+
+.footer-logo-studio:hover{
+  color: #4d5ae5;
+}
+
 .footer p {
   font-size: 16px;
   font-weight: 400;
